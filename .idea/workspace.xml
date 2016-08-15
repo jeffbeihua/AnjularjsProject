@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4905e550-00df-49ca-8643-023f2354f92f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="AnjularjsProject.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -104,8 +103,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -126,11 +125,12 @@
       <updated>1471236302061</updated>
       <workItem from="1471236305967" duration="184000" />
       <workItem from="1471242630351" duration="912000" />
+      <workItem from="1471244293124" duration="93000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1096000" />
+    <option name="totallyTimeSpent" value="1189000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
